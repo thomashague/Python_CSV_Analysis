@@ -1,9 +1,8 @@
 import os 
 import csv
-import pandas as pd 
 import random
 
-#NOTE: change this path depending on what data file you want to use
+#get path of file
 csvPath = input('What is the path of the input file you want to use? ex: budget_data_2.csv ')
 
 #create rowCount variable
