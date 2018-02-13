@@ -8,8 +8,6 @@ csvPath = input('What is the path of the input file you want to use? ex: electio
 #set up variables
 rowCount = 0
 candidate = 'Bob'
-candidateArray = []
-percentageArray = []
 candidateStringArray = []
 dummy = 0
 candidateDictionary = {}
